@@ -1,0 +1,30 @@
+Bewertungskriterien
+---------------------------------------------------
+15% Pflichtenheft (unformal, aber vollständig)
+10% Architekturskizze
+50% lauffähiger Prototyp
+15% 5-Folien Präsentation (statt Vortrag)
+10% Backend-Anbindung (für ne 1)
+
+Pflichtenheft und Architekturskizze dürfen im Vortrag enthalten sein!
+
+Beispiel Pflichtenheft "Pausen Kiosk"
+---------------------------------------------------
+Kurzbeschreibung:
+Über eine App sollen Baguettes und Brötchen für die nächste Pause vorbestellt werden können. Durch die Übertragung der Handynummer soll ein verbindlicher Kaufvertrag zustande kommen. Wird zum zweiten mal eine Bestellung nicht abgholt, so wird diese Handy-Nummer für den Dienst gesperrt. Lokal sollen die letzten Bestellungen gespeichert und als Vorauswahl angezeigt werden können.
+
+Pflichtkriterien:
+P001 heutige Produkte sollen angezeigt werden
+P002 ein Produkt soll auswählbar sein
+P003 alle ausgewählten Produkte werden lokal gespeichert
+P004 ausgewählte Produkte werden vorbestellt
+
+Kannkriterien:
+K001 grafische Darstellung der Produkte
+K002 Feedback, sobald ein produkt zur abholung bereit ist
+K003 Zahlen per PayPal o.ä.
+K004 Auswertung der bisherigen Bestellungen
+K005 Vorschläge ähnlicher oder neuer Produkte
+
+Aktualisierung der Kriterien:
+K003 ist als machbar geprüft, wird aber hier nicht umegsetzt (2017-05-11, Tom Schardt)
